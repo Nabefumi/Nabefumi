@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Takafumi Watanabe</h1>
 <h3 align="center">A passionate Mobile and frontend developer!</h3>
 
-- 👨‍💻 All of my projects are available at [https://takafumiblog.com/portfolio/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://takafumiblog.com/portfolio/)
 
-- 📄 Know about my experiences [http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf](Resume)
+- 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
