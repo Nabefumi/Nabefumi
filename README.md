@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabefumi&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nabefumi&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=dracula&utcOffset=8)
