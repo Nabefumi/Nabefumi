@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
     <img height="20" src="https://img.shields.io/github/followers/Nabefumi?label=follow&logo=github&style=flat" />
   </a>
   
-    <a href="https://twitter.com/Takafumi_Log">
+  <a href="https://twitter.com/Takafumi_Log">
     <img height="20" src="https://img.shields.io/twitter/follow/Takafumi_Log?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabefumi=dracula"> </a>
+  </a>  
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Nabefumi=vn7n24fzkq&theme=vue)
