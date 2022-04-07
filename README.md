@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://takafumiblog.com/portfolio/](https://takafumiblog.com/portfolio/)
 
-- 📄 Know about my experiences [https://takafumiblog.com/portfolio/](https://takafumiblog.com/portfolio/)
+- 📄 Know about my experiences [http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf](https://takafumiblog.com/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
