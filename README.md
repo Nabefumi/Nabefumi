@@ -6,3 +6,15 @@
 Nabefumi/Nabefumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="left"> 
+  <a href="https://github.com/Nabefumi/Nabefumi/">
+    <img src="https://komarev.com/ghpvc/?username=Nabefumi/" alt="Nabefumi/" />
+  </a>
+  <a href="https://twitter.com/Takafumi_Log">
+    <img height="20" src="https://img.shields.io/twitter/follow/Takafumi_Log?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Nabefumi">
+    <img height="20" src="https://img.shields.io/github/followers/Nabefumi?label=follow&logo=github&style=flat" />
+  </a>
+</p>
