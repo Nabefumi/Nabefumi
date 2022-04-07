@@ -7,9 +7,9 @@ Nabefumi/Nabefumi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/Nabefumi">
-    <<img height="20" src=https://komarev.com/ghpvc/?username=Nabefumi&style=flat-square>
+    <img height="20" src=https://komarev.com/ghpvc/?username=Nabefumi&style=flat-square>
   </a>
   
   <a href="https://twitter.com/Takafumi_Log">
