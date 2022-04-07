@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="left"> 
-  <a href="https://github.com/Nabefumi/Nabefumi/">
+  <a href="https://github.com/nabefumi/nabefumi/">
     <img src="https://komarev.com/ghpvc/?username=Nabefumi/" alt="Nabefumi/" />
   </a>
   <a href="https://twitter.com/Takafumi_Log">
