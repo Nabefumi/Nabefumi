@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
   </a>  
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Nabefumi=vn7n24fzkq&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabefumi&theme=solarized_dark)
